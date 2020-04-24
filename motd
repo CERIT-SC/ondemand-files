@@ -5,3 +5,14 @@ Plain message
 ## Message description ##
 
 Any message description
+Fancy stuff
+## Team ##
+  - Lukas Hejtmanek
+  - Viktoria Spisakova
+  - Anezka Melounova
+
+## Never do this ##
+
+```
+rm -rf /
+```
