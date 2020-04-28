@@ -1,17 +1,10 @@
-# 2020-04-28 - ondemand works as it should
-For more ingo contact anyone (preferably Anezka) from
+# 2020-04-28 - OnDemand is ready to use
+
+User documentation can be found in upper right corner under Help -> Online Documentation.
+Online support does not work yet, we are working on it.
+The site is still under construction, for more info or in case of any problems contact anyone from the team:
   - Lukas Hejtmanek
-  - Viktoria Spisakova
+  - Viktoria Spisakova 
   - Anezka Melounova
-
-# 2020-04-24 - Set up MOTD 
-
-2020-04-24 Message is working.
-
-## Message description ##
-
-## Never do this ##
-
-```
-rm -rf /
-```
+  
+but preferably write to Metacentrum User Support.
